@@ -1,9 +1,9 @@
 title: Testing Long Haul
 description: Testing the long haul theme
 
-url: https://prahladyeri.github.io/test-long-haul
+url: https://testinglh.appsdepot.cf
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: blog/:year/:month/:title.html
 
 # Header Option
 # header: large
