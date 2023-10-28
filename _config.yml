@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: Testing Long Haul
+description: Testing the long haul theme
 
-url: https://long-haul.netlify.app
+url: https://prahladyeri.github.io/test-long-haul
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -25,13 +25,7 @@ navigation:
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-
-google_analytics: "UA-58263416-1"
-
-disqus:
-    shortname: brianmaierjr
+    github: prahladyeri
+    twitter: prahladyeri
+    email: prahladyeri@yahoo.com
+    linkedin: prahlad-yeri-243a5316
